@@ -7,8 +7,6 @@ Version: 1.0
 Author: Aleksandr Poss
 Author URI: 
 */
-
-
 function follow_button_123_for_twitter($content) {
 	
 	$current_url = $_SERVER['REQUEST_URI'];       
